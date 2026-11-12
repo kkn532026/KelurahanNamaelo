@@ -1,0 +1,87 @@
+{
+  "lurah": {
+    "nama": "Sudirman Lewenussa, S.STP",
+    "jabatan": "Lurah Namaelo",
+    "nip": "199505032017081001",
+    "foto": "assets/img/lurah.jpg",
+    "sambutan": "Selamat datang di website resmi Kelurahan Namaelo, Kecamatan Kota Masohi, Kabupaten Maluku Tengah, Provinsi Maluku. Dengan mengucap syukur kepada Allah SWT, kami mempersembahkan portal informasi ini sebagai wujud komitmen kami dalam mewujudkan pelayanan publik yang transparan, cepat, dan mudah diakses oleh seluruh warga. Sebagai kelurahan tertua di wilayah Kecamatan Kota Masohi yang berdiri sejak 2 September 1981, kami merasa terpanggil untuk terus berinovasi dalam memberikan pelayanan terbaik bagi 17.050 jiwa warga Namaelo. Berlandaskan nilai-nilai Pela Gandong yang mengakar kuat di tanah Maluku, kami percaya bahwa persatuan dan gotong royong adalah fondasi pembangunan yang sesungguhnya. Semoga website ini mempererat hubungan antara pemerintah kelurahan dan masyarakat, serta menjadi jembatan informasi yang terpercaya. Mari bersama-sama wujudkan Kelurahan Namaelo yang maju, sejahtera, dan berbudaya."
+  },
+  "sekretaris": {
+    "nama": "[Nama Sekretaris]",
+    "jabatan": "Sekretaris Kelurahan",
+    "nip": "[NIP Sekretaris]",
+    "foto": "assets/img/sekretaris.jpg"
+  },
+  "kasi": [
+    {
+      "nama": "[Nama Kasi Pemerintahan]",
+      "jabatan": "Kasi Pemerintahan",
+      "nip": "[NIP]",
+      "foto": "assets/img/kasi1.jpg"
+    },
+    {
+      "nama": "[Nama Kasi Pelayanan]",
+      "jabatan": "Kasi Pelayanan Umum",
+      "nip": "[NIP]",
+      "foto": "assets/img/kasi2.jpg"
+    },
+    {
+      "nama": "[Nama Kasi Kesra]",
+      "jabatan": "Kasi Kesejahteraan Rakyat",
+      "nip": "[NIP]",
+      "foto": "assets/img/kasi3.jpg"
+    },
+    {
+      "nama": "[Nama Kasi Ekbang]",
+      "jabatan": "Kasi Ekonomi & Pembangunan",
+      "nip": "[NIP]",
+      "foto": "assets/img/kasi4.jpg"
+    }
+  ],
+  "rtrw": [
+    { "rt": "001", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 001]", "ketua_rw": "" },
+    { "rt": "002", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 002]", "ketua_rw": "" },
+    { "rt": "003", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 003]", "ketua_rw": "" },
+    { "rt": "004", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 004]", "ketua_rw": "" },
+    { "rt": "005", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 005]", "ketua_rw": "" },
+    { "rt": "006", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 006]", "ketua_rw": "" },
+    { "rt": "007", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 007]", "ketua_rw": "" },
+    { "rt": "008", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 008]", "ketua_rw": "" },
+    { "rt": "009", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 009]", "ketua_rw": "" },
+    { "rt": "010", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 010]", "ketua_rw": "" },
+    { "rt": "011", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 011]", "ketua_rw": "" },
+    { "rt": "012", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 012]", "ketua_rw": "" },
+    { "rt": "013", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 013]", "ketua_rw": "" },
+    { "rt": "014", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 014]", "ketua_rw": "" },
+    { "rt": "015", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 015]", "ketua_rw": "" },
+    { "rt": "016", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 016]", "ketua_rw": "" },
+    { "rt": "017", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 017]", "ketua_rw": "" },
+    { "rt": "018", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 018]", "ketua_rw": "" },
+    { "rt": "019", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 019]", "ketua_rw": "" },
+    { "rt": "020", "rw": "[RW]", "ketua_rt": "[Nama Ketua RT 020]", "ketua_rw": "" }
+  ],
+  "_catatan_sumber": {
+    "tanggal_berdiri": "02 September 1981",
+    "status": "Kelurahan tertua di Kecamatan Kota Masohi",
+    "penduduk_total": 17050,
+    "penduduk_laki_laki": 8254,
+    "penduduk_perempuan": 8796,
+    "jumlah_kk": 2733,
+    "jumlah_rt": 20,
+    "luas_wilayah_km2": 16.67,
+    "persentase_dari_kecamatan": "44,69% dari 37,30 km²",
+    "koordinat": "03°17′06″–03°18′04″ LS, 128°57′02″–128°57′03″ BT",
+    "batas_utara": "Kelurahan Ampera",
+    "batas_selatan": "Tanah Negara",
+    "batas_timur": "Kelurahan Letwaru",
+    "batas_barat": "Kelurahan Namasina",
+    "jarak_ke_ibu_kota_kecamatan": "0,3 km",
+    "jarak_ke_ibu_kota_kabupaten": "1 km",
+    "jarak_ke_ibu_kota_provinsi": "106 km",
+    "kode_pos": "97511",
+    "kecamatan": "Kota Masohi",
+    "kabupaten": "Maluku Tengah",
+    "provinsi": "Maluku",
+    "sumber": "Data resmi Kelurahan Namaelo"
+  }
+}

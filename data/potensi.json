@@ -1,0 +1,34 @@
+[
+  {
+    "kategori": "Perikanan",
+    "ikon": "🐟",
+    "judul": "Hasil Laut",
+    "deskripsi": "Kelurahan Namaelo berada di kawasan pesisir Pulau Seram sehingga warganya memiliki mata pencaharian sebagai nelayan. Berbagai jenis ikan dan hasil laut ditangkap dan dipasarkan untuk memenuhi kebutuhan pangan serta menopang ekonomi rumah tangga warga.",
+    "produk": ["Ikan Cakalang", "Ikan Tuna", "Ikan Kerapu", "Udang Laut", "Gurita"],
+    "foto": "https://images.unsplash.com/photo-1534481016308-0fca71578ae5?w=600&q=80"
+  },
+  {
+    "kategori": "Rempah & Perkebunan",
+    "ikon": "🌿",
+    "judul": "Pala, Cengkih & Tanaman Pangan",
+    "deskripsi": "Sebagian warga Kelurahan Namaelo mengusahakan kebun pala, cengkih, dan tanaman pangan di lahan sekitar permukiman. Pala dan cengkih merupakan komoditas unggulan Maluku yang memiliki nilai ekonomi tinggi dan sudah lama menjadi bagian dari kehidupan masyarakat setempat.",
+    "produk": ["Pala (buah & fuli)", "Cengkih", "Kelapa", "Pisang", "Singkong"],
+    "foto": "https://images.unsplash.com/photo-1599598425947-5202edd56bdb?w=600&q=80"
+  },
+  {
+    "kategori": "UMKM Lokal",
+    "ikon": "🛒",
+    "judul": "Usaha Mikro Warga Namaelo",
+    "deskripsi": "Warga Kelurahan Namaelo aktif berwirausaha di berbagai bidang, mulai dari pengolahan hasil laut, kuliner tradisional Maluku, kerajinan tangan, hingga perdagangan eceran. Pemerintah kelurahan mendorong tumbuhnya UMKM melalui program pelatihan dan pendampingan usaha.",
+    "produk": ["Abon Ikan Cakalang", "Olahan Pala (sirup, manisan)", "Kue Tradisional Maluku", "Kerajinan Anyaman", "Warung & Perdagangan Eceran"],
+    "foto": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80"
+  },
+  {
+    "kategori": "Budaya & Sosial",
+    "ikon": "🎭",
+    "judul": "Kekayaan Budaya Lokal",
+    "deskripsi": "Warga Kelurahan Namaelo mewarisi kekayaan budaya Maluku yang khas: nilai Pela Gandong sebagai ikatan persaudaraan lintas agama, tari Cakalele, dan musik Tifa yang mengiringi berbagai upacara adat. Keragaman ini dijaga sebagai identitas dan kebanggaan warga Namaelo.",
+    "produk": ["Tari Cakalele", "Tradisi Pela Gandong", "Musik Tifa & Suling Bambu", "Upacara Adat Lokal", "Kuliner Tradisional Maluku"],
+    "foto": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80"
+  }
+]

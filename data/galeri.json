@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "judul": "Panorama Pesisir Namaelo",
+    "kategori": "Lingkungan",
+    "foto": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=400&q=70"
+  },
+  {
+    "id": 2,
+    "judul": "Kegiatan Gotong Royong Warga",
+    "kategori": "Kegiatan",
+    "foto": "https://images.unsplash.com/photo-1559827291-72f23e1b0f05?w=800&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1559827291-72f23e1b0f05?w=400&q=70"
+  },
+  {
+    "id": 3,
+    "judul": "Rempah Pala Khas Maluku",
+    "kategori": "Potensi",
+    "foto": "https://images.unsplash.com/photo-1599598425947-5202edd56bdb?w=800&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1599598425947-5202edd56bdb?w=400&q=70"
+  },
+  {
+    "id": 4,
+    "judul": "Keindahan Laut Maluku",
+    "kategori": "Lingkungan",
+    "foto": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400&q=70"
+  },
+  {
+    "id": 5,
+    "judul": "Nelayan Tradisional",
+    "kategori": "Potensi",
+    "foto": "https://images.unsplash.com/photo-1534481016308-0fca71578ae5?w=800&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1534481016308-0fca71578ae5?w=400&q=70"
+  },
+  {
+    "id": 6,
+    "judul": "Musyawarah Kelurahan",
+    "kategori": "Kegiatan",
+    "foto": "https://images.unsplash.com/photo-1577495508048-b635879837f1?w=800&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1577495508048-b635879837f1?w=400&q=70"
+  },
+  {
+    "id": 7,
+    "judul": "Pasar Tradisional Kota Masohi",
+    "kategori": "Ekonomi",
+    "foto": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&q=70"
+  },
+  {
+    "id": 8,
+    "judul": "Anak-Anak Generasi Penerus",
+    "kategori": "Sosial",
+    "foto": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=70"
+  },
+  {
+    "id": 9,
+    "judul": "Hamparan Kebun Cengkih",
+    "kategori": "Potensi",
+    "foto": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&q=70"
+  }
+]

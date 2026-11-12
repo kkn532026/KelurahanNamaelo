@@ -1,0 +1,112 @@
+[
+  {
+    "id": "domisili",
+    "nama": "Surat Keterangan Domisili",
+    "ikon": "🏠",
+    "deskripsi": "Surat yang menerangkan bahwa seseorang bertempat tinggal di wilayah Kelurahan Namaelo.",
+    "syarat": [
+      "Fotokopi KTP yang masih berlaku",
+      "Fotokopi Kartu Keluarga (KK)",
+      "Surat pengantar dari Ketua RT setempat",
+      "Mengisi formulir permohonan yang tersedia di kantor kelurahan"
+    ],
+    "alur": [
+      "Datang ke kantor Kelurahan Namaelo pada jam pelayanan",
+      "Menyerahkan berkas persyaratan kepada petugas loket",
+      "Petugas memverifikasi kelengkapan berkas",
+      "Proses penerbitan surat (± 15 menit)",
+      "Surat ditandatangani oleh Lurah atau pejabat yang berwenang",
+      "Surat diserahkan kepada pemohon"
+    ],
+    "waktu": "1 hari kerja",
+    "biaya": "Gratis"
+  },
+  {
+    "id": "sktm",
+    "nama": "Surat Keterangan Tidak Mampu (SKTM)",
+    "ikon": "📋",
+    "deskripsi": "Surat keterangan yang dibutuhkan warga untuk keperluan beasiswa, keringanan biaya pengobatan, atau bantuan sosial.",
+    "syarat": [
+      "Fotokopi KTP pemohon",
+      "Fotokopi Kartu Keluarga (KK)",
+      "Surat pengantar dari Ketua RT/RW",
+      "Surat keterangan dari sekolah (jika untuk keperluan beasiswa)",
+      "Mengisi formulir permohonan SKTM"
+    ],
+    "alur": [
+      "Mendapatkan surat pengantar dari Ketua RT",
+      "Datang ke kantor kelurahan membawa semua berkas",
+      "Petugas melakukan verifikasi data pemohon",
+      "Dilakukan pengecekan kesesuaian dengan data DTKS",
+      "Proses penerbitan surat (± 30 menit)",
+      "Surat ditandatangani Lurah dan diserahkan kepada pemohon"
+    ],
+    "waktu": "1 hari kerja",
+    "biaya": "Gratis"
+  },
+  {
+    "id": "pengantar-ktp",
+    "nama": "Surat Pengantar KTP / KK",
+    "ikon": "🪪",
+    "deskripsi": "Surat pengantar dari kelurahan yang diperlukan untuk proses perekaman atau pengurusan KTP elektronik dan Kartu Keluarga di Dinas Dukcapil.",
+    "syarat": [
+      "Mengisi formulir F1.01 (tersedia di kantor kelurahan)",
+      "Fotokopi Kartu Keluarga (KK) lama",
+      "Fotokopi KTP lama (jika perpanjangan)",
+      "Akta kelahiran (untuk pembuatan KTP pertama kali)",
+      "Dokumen pendukung sesuai jenis perubahan data"
+    ],
+    "alur": [
+      "Datang ke kantor kelurahan dan ambil formulir",
+      "Isi formulir dengan lengkap dan benar",
+      "Serahkan formulir beserta berkas pendukung",
+      "Petugas menerbitkan surat pengantar",
+      "Bawa surat pengantar ke Dinas Dukcapil Kabupaten Maluku Tengah"
+    ],
+    "waktu": "1 hari kerja",
+    "biaya": "Gratis"
+  },
+  {
+    "id": "surat-usaha",
+    "nama": "Surat Keterangan Usaha (SKU)",
+    "ikon": "🏪",
+    "deskripsi": "Surat resmi yang menerangkan bahwa pemohon menjalankan usaha di wilayah Kelurahan Namaelo. Dibutuhkan untuk pengajuan KUR dan keperluan perizinan lainnya.",
+    "syarat": [
+      "Fotokopi KTP pemohon yang masih berlaku",
+      "Fotokopi Kartu Keluarga (KK)",
+      "Surat pengantar dari Ketua RT setempat",
+      "Foto usaha / tempat usaha (minimal 2 lembar)",
+      "Mengisi formulir permohonan SKU"
+    ],
+    "alur": [
+      "Mendapatkan surat pengantar dari Ketua RT",
+      "Datang ke kantor kelurahan dengan membawa semua berkas",
+      "Petugas melakukan verifikasi data dan survei lapangan (jika diperlukan)",
+      "Proses penerbitan SKU (± 1 hari kerja)",
+      "SKU ditandatangani Lurah dan diserahkan kepada pemohon"
+    ],
+    "waktu": "1-2 hari kerja",
+    "biaya": "Gratis"
+  },
+  {
+    "id": "surat-pindah",
+    "nama": "Surat Keterangan Pindah",
+    "ikon": "🚚",
+    "deskripsi": "Surat yang dibutuhkan warga yang akan berpindah domisili keluar dari wilayah Kelurahan Namaelo.",
+    "syarat": [
+      "Fotokopi KTP yang masih berlaku",
+      "Fotokopi Kartu Keluarga (KK)",
+      "Surat pengantar dari Ketua RT",
+      "Mengisi formulir F1.05 permohonan pindah"
+    ],
+    "alur": [
+      "Melapor ke Ketua RT dan mendapatkan surat pengantar",
+      "Datang ke kantor kelurahan dengan semua berkas",
+      "Petugas memproses surat keterangan pindah",
+      "Surat diserahkan kepada pemohon",
+      "Pemohon membawa surat ke Dinas Dukcapil untuk proses selanjutnya"
+    ],
+    "waktu": "1 hari kerja",
+    "biaya": "Gratis"
+  }
+]
